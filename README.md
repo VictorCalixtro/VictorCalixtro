@@ -17,7 +17,7 @@ I am a first-generation college graduate and have a passion for programming and 
 
 - 🔭 I’m currently searching for an entry-level software development role at a fantastic company.  
 
-- 🌱 I’m currently learning web-development and the google cloud platform.  
+- 📖 I’m currently learning web-development and the google cloud platform.  
    
 - 📫 How to reach me: victordaniel0678@gmail.com
  
@@ -74,3 +74,14 @@ I am a first-generation college graduate and have a passion for programming and 
 </td></tr></table>  
 
 <br/>  
+
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCalixtro&hide_border=true&layout=compact" align="center" /></div>  
+
+<br/>  
+
+
